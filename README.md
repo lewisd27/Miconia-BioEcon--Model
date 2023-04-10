@@ -17,3 +17,5 @@ The model is setup to knit together and produce markdown files on each run and e
 7. Edit `Management` sections to change management actions at each time step.
 - EDIT `AP` and `C1` variables to assign different distances for management. 
 8. Update `r outputs` section with desired filenames for .xlsx and plot outputs.
+
+Click RUN ALL to run the model and knit together the document.
