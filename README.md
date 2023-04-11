@@ -4,6 +4,8 @@
 
 The R0_data.csv is an example of generated dispersal distances for miconia based on its dispersal kernal (probability density function of dipsersal distance from maternal source).
 
+The PDF demonstrates the full model output with all code shown.
+
 The model is setup to knit together and produce markdown files on each run and export plots and .xlsx files for model outputs.
 
 ## Running the Model
