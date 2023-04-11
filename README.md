@@ -1,3 +1,5 @@
+##Edit notes: Add model description (deterministic, population, spatial, spread, temporoal, iteratives, etc.). Add expected outputs (plots, xlxs files, pdf functions, etc.). Add required inputs (.csv of distances, stage matrix information, management boundaries, etc).
+
 # Miconia-BioEcon--Model
 
 ### R and Rstudio are required to run this model. All package dependencies are annotated in the markdown file.
