@@ -6,7 +6,7 @@
 - Refined instructions (how to change management actions in each time step).
 
 
-# Miconia-BioEcon--Model
+# Miconia-BioEcon-Model
 
 ### R and Rstudio are required to run this model. All package dependencies are annotated in the markdown file.
 
