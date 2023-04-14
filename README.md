@@ -1,4 +1,10 @@
-##Edit notes: Add model description (deterministic, population, spatial, spread, temporoal, iteratives, etc.). Add expected outputs (plots, xlxs files, pdf functions, etc.). Add required inputs (.csv of distances, stage matrix information, management boundaries, etc).
+# Editor notes: 
+## To be added
+- Comprehensive model description (deterministic, population, spatial, spread, temporoal, iteratives, etc.). 
+- Add required inputs (.csv of distances, stage matrix information, management boundaries, etc).
+- Add expected outputs (plots, xlxs files, pdf functions, etc.). 
+- Refined instructions (how to change management actions in each time step).
+
 
 # Miconia-BioEcon--Model
 
@@ -23,3 +29,6 @@ The model is setup to knit together and produce markdown files on each run and e
 8. Update `r outputs` section with desired filenames for .xlsx and plot outputs.
 
 Click RUN ALL to run the model and knit together the document.
+
+### Email me  at lewisdd@hawaii.edu if you have any questions, comments, or concerns.
+
